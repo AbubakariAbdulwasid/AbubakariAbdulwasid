@@ -5,9 +5,7 @@
 - 🧫 I study the **genomic epidemiology of antimicrobial resistance (AMR)** in WHO priority pathogens across West Africa — with a focus on *Neisseria gonorrhoeae*, *Pseudomonas aeruginosa*, and the wider ESKAPEE group;
 - 🌍 I run **wastewater surveillance** projects in the Ashanti Region of Ghana, coupling short-read + long-read sequencing with phylogeography (BEAST) and LC-MS/MS antibiotic-residue data;
 - 🧪 I work in **R, Python, and the command line** — pyseer for bacterial GWAS, Snippy / Prokka / Roary for genome assembly and pan-genomics, IQ-TREE and BEAST for phylogenetics;
-- ✍️ I write about **graduate-school applications, scholarships, and bioinformatics for beginners** — I mentor applicants to DAAD, ANSO, and Commonwealth programmes;
-- 🇩🇪 Currently learning **German** at the Goethe-Institut Göttingen.
-
+- ✍️ I write about **graduate-school applications, scholarships, and bioinformatics for beginners** — I mentor applicants to DAAD, ANSO, and Commonwealth programmes.
 ---
 
 🌐 **Personal website:** https://abubakari-abdulwasid.com
@@ -27,8 +25,8 @@
 ### 🔬 What I'm working on
 
 - 🧬 **PhD project:** *Genomic Surveillance of AMR WHO Priority Pathogens in the Ashanti Region* (2026–2029);
-- 📖 **In revision:** Genomic epidemiology of *Neisseria gonorrhoeae* in Ghana (*Scientific Reports*);
-- 📖 **Under peer review:** Pan-African genomics of *Pseudomonas aeruginosa* (*BMC Genomics*);
+- 📖 **Published:** Genomic epidemiology of *Neisseria gonorrhoeae* in Ghana (*Scientific Reports*);
+- 📖 **Published:** Pan-African genomics of *Pseudomonas aeruginosa* (*BMC Genomics*);
 - 🎥 **Coming soon:** a YouTube channel with lectures on WGS, SPAdes / Unicycler assembly, and scholarship-application walkthroughs.
 
 ---
